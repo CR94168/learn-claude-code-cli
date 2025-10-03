@@ -1,6 +1,6 @@
 ---
 description: Optimize the snippet code or the file
-argument-hint: [code-snippet] or [filepath]
+argument-hint: [code-snippet] [filepath]
 ---
 
 # Optimize the snippet code or the file. argument-hint: [code-snippet] or [filepath]
