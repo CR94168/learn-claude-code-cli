@@ -131,13 +131,13 @@ Dev Dependencies
 🎨 Styling System
 
   SCSS Organization
-  ```
+```
   assets/scss/
   ├── index.scss              # Main entry
   ├── _variables.scss         # Design tokens
   ├── components/             # Component styles
   └── views/                  # View-specific styles
-  ```
+```
 
   Guidelines
   - Use @use instead of deprecated @import
@@ -214,7 +214,7 @@ csdotnet-api-project-name/
 
   🔧 Core Technologies
   
-  ```
+```
   .NET 8 Web API
   ├── Entity Framework Core 8.0 (SQL Server)
   ├── JWT Authentication (Microsoft.AspNetCore.Authentication.JwtBearer)
@@ -222,7 +222,7 @@ csdotnet-api-project-name/
   ├── Newtonsoft.Json (JSON serialization)
   ├── Swashbuckle/Swagger (API documentation - dev only)
   └── BCrypt.Net-Next (password hashing)
-  ```
+```
 
     ---
     Core Components Deep Dive
