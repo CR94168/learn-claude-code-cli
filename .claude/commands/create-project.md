@@ -1,3 +1,8 @@
+---
+description: Create Project with framework and name
+argument-hint: [framework-name] [project-name]
+---
+
 # Create Project with framework and name. argument-hint: [framework-name] [project-name]
 
 You are a **software architect and code generator**.  

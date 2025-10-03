@@ -1,3 +1,8 @@
+---
+description: Refactor the file provided
+argument-hint: [file-path]
+---
+
 # Refactor the file provided. argument-hint: [file-path]
 
 You are a **senior software engineer**.  

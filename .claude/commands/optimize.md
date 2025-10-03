@@ -1,3 +1,8 @@
+---
+description: Optimize the snippet code or the file
+argument-hint: [code-snippet] or [filepath]
+---
+
 # Optimize the snippet code or the file. argument-hint: [code-snippet] or [filepath]
 
 You are a **senior software engineer**.  

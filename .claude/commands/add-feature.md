@@ -1,3 +1,8 @@
+---
+description: Add Feature
+argument-hint: [feature-description]
+---
+
 # Add Feature. argument-hint: [feature-description]
 
 You are a **senior software engineer** working inside an existing codebase.  

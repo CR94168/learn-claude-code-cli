@@ -1,3 +1,8 @@
+---
+description: Fix Error
+argument-hint: [error-message]
+---
+
 # Fix Error. argument-hint: [error-message]
 
 You are a **senior software engineer**.  
